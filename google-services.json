@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152270638719",
+    "project_id": "icant-7dfef",
+    "storage_bucket": "icant-7dfef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152270638719:android:baf1d6d4f74d806e3e394a",
+        "android_client_info": {
+          "package_name": "com.thabang.icant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152270638719-7v5pcgra8i49ockeni66bvjfsjhsstfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmJYD91APrT_Nh8q1TTxAAZjwfrp6mN08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152270638719-7v5pcgra8i49ockeni66bvjfsjhsstfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
